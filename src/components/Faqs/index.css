@@ -1,0 +1,20 @@
+/* Write your code here. */
+.app-container {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  background-color: #f1f5f8;
+}
+
+.Faq-container {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  width: 550px;
+}
+.heading {
+  color: #cb8805;
+}
